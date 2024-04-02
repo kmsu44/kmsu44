@@ -39,7 +39,6 @@ Frontend-Developer
 
 ### Awards
 - Junction Asia 2023 'Jaka Robotics' Track 우승
-- 세종대학교
 - 2023년도 세종대학교 컴퓨터공학과 학술제 3등
 - 2022년도 세종대학교 컴퓨터공학과 학술제 3등
 - 제 5회 세종대학교 SW 경시대회 5등
