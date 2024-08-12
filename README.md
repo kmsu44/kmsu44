@@ -34,7 +34,7 @@ Frontend-Developer
 
 
 
-### Eductaion
+### Education
 - 세종대학교 컴퓨터 공학과 [18.03 - 24.02]
 
 ### Awards
